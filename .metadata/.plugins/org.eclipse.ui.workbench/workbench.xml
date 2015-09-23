@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="13" version="2.0">
+<workbench progressCount="19" version="2.0">
 <workbenchAdvisor/>
-<window height="744" width="1024" x="0" y="24">
+<window height="744" maximized="true" width="1024" x="0" y="24">
 <fastViewData fastViewLocation="1024"/>
 <perspectiveBar>
 <itemSize x="160"/>
 </perspectiveBar>
 <coolbarLayout>
 <coolItem id="group.file" itemType="typeGroupMarker"/>
-<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="132" y="25"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="144" y="30"/>
 <coolItem id="additions" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.debug.ui.launch.toolbar" itemType="typeToolBarContribution" x="-1" y="-1"/>
-<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="124" y="25"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="156" y="30"/>
 <coolItem id="org.eclipse.debug.ui.main.toolbar" itemType="typeToolBarContribution" x="-1" y="-1"/>
-<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="76" y="25"/>
-<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="106" y="25"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="88" y="30"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="124" y="30"/>
 <coolItem id="group.nav" itemType="typeGroupMarker"/>
-<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="190" y="25"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="232" y="30"/>
 <coolItem id="group.editor" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="group.help" itemType="typeGroupMarker"/>
@@ -33,9 +33,9 @@
 </folder>
 </info>
 </editorArea>
-<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PaperPublication.java" partName="PaperPublication.java" title="PaperPublication.java" tooltip="/home/andres/Documentos/COMP249_assignment/PaperPublication.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/home/andres/Documentos/COMP249_assignment/PaperPublication.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="322" selectionTopPixel="0"/>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PaperPublication.java" partName="PaperPublication.java" title="PaperPublication.java" tooltip="/home/feasinde/Documentos/COMP249_assignment/PaperPublication.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/home/feasinde/Documentos/COMP249_assignment/PaperPublication.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1275" selectionTopPixel="442"/>
 </editor>
 </editors>
 <views>
@@ -44,7 +44,7 @@
 </view>
 <view id="org.eclipse.ui.views.TaskList" partName="Tasks">
 <viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.completionField" categoryGroup="none" markerContentGenerator="org.eclipse.ui.ide.tasksGenerator" partName="Tasks">
-<columnWidths org.eclipse.ui.ide.completionField="40" org.eclipse.ui.ide.descriptionField="300" org.eclipse.ui.ide.locationField="90" org.eclipse.ui.ide.markerType="90" org.eclipse.ui.ide.pathField="120" org.eclipse.ui.ide.priorityField="30" org.eclipse.ui.ide.resourceField="90"/>
+<columnWidths org.eclipse.ui.ide.completionField="40" org.eclipse.ui.ide.descriptionField="300" org.eclipse.ui.ide.locationField="90" org.eclipse.ui.ide.markerType="417" org.eclipse.ui.ide.pathField="120" org.eclipse.ui.ide.priorityField="30" org.eclipse.ui.ide.resourceField="90"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.completionField"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.priorityField"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.descriptionField"/>
@@ -141,9 +141,40 @@
 <navigationHistory>
 <editors>
 <editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" uri="file:/home/andres/Documentos/COMP249_assignment/PaperPublication.java"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" uri="file:/home/feasinde/Documentos/COMP249_assignment/PaperPublication.java"/>
 </editors>
-<item active="true" historyLabel="PaperPublication.java" index="0">
+<item historyLabel="PaperPublication.java" index="0">
 <position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="PaperPublication.java" index="1">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="PaperPublication.java" index="1">
+<position info="not_deleted" x="579" y="0"/>
+</item>
+<item historyLabel="PaperPublication.java" index="1">
+<position info="not_deleted" x="842" y="0"/>
+</item>
+<item historyLabel="PaperPublication.java" index="1">
+<position info="not_deleted" x="974" y="0"/>
+</item>
+<item historyLabel="PaperPublication.java" index="1">
+<position info="not_deleted" x="1040" y="0"/>
+</item>
+<item historyLabel="PaperPublication.java" index="1">
+<position info="not_deleted" x="198" y="0"/>
+</item>
+<item historyLabel="PaperPublication.java" index="1">
+<position info="not_deleted" x="1130" y="0"/>
+</item>
+<item historyLabel="PaperPublication.java" index="1">
+<position info="not_deleted" x="1107" y="0"/>
+</item>
+<item historyLabel="PaperPublication.java" index="0">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item active="true" historyLabel="PaperPublication.java" index="1">
+<position info="not_deleted" x="1107" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -162,6 +193,9 @@
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PaperPublication.java" tooltip="/home/feasinde/Documentos/COMP249_assignment/PaperPublication.java">
+<persistable uri="file:/home/feasinde/Documentos/COMP249_assignment/PaperPublication.java"/>
+</file>
 <file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PaperPublication.java" tooltip="/home/andres/Documentos/COMP249_assignment/PaperPublication.java">
 <persistable uri="file:/home/andres/Documentos/COMP249_assignment/PaperPublication.java"/>
 </file>
